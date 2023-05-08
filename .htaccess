@@ -1,0 +1,16 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^(.*)\.html$ $1.php [L] 
+#
+#Options +FollowSymlinks
+#
+# prevent infinite loops
+#RewriteCond %{ENV:REDIRECT_STATUS} 200
+#RewriteRule .* - [L]
+#
+#
+#
+#
+#
+#
+#

@@ -1,0 +1,280 @@
+[28-Apr-2021 17:41:42 America/Vancouver] PHP Notice:  Undefined index: temp_page_fields in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 265
+[28-Apr-2021 17:41:45 America/Vancouver] PHP Notice:  Undefined index: temp_page_fields in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 265
+[28-Apr-2021 17:41:54 America/Vancouver] PHP Notice:  Undefined index: temp_page_fields in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 265
+[28-Apr-2021 17:51:47 America/Vancouver] PHP Notice:  Undefined index: temp_page_fields in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 265
+[29-Apr-2021 01:10:09 UTC] PHP Notice:  Undefined variable: prof in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 3
+[29-Apr-2021 01:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getProfName() on null in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php:3
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/change-password.php(32): require_once()
+#1 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 3
+[29-Apr-2021 23:19:07 America/Vancouver] PHP Notice:  Undefined variable: prof in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 3
+[29-Apr-2021 23:19:07 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function getProfName() on null in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php:3
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/profile-image.php(111): require_once()
+#1 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 3
+[29-Apr-2021 23:22:41 America/Vancouver] PHP Notice:  Undefined variable: name in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 17
+[29-Apr-2021 23:51:11 America/Vancouver] PHP Warning:  require_once(includes/class.profess.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/user-admin/profile-image.php on line 6
+[29-Apr-2021 23:51:11 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required 'includes/class.profess.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/user-admin/profile-image.php on line 6
+[30-Apr-2021 10:30:48 UTC] PHP Fatal error:  Uncaught Error: Class 'CustomerLogin' not found in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php:2
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/profile-information.php(21): require_once()
+#1 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 2
+[30-Apr-2021 10:31:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CustomerLogin' not found in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php:2
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/profile-information.php(22): require_once()
+#1 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 2
+[30-Apr-2021 10:32:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CustomerLogin' not found in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php:2
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/profile-information.php(22): require_once()
+#1 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 2
+[30-Apr-2021 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CustomerLogin' not found in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php:2
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/profile-information.php(21): require_once()
+#1 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php on line 2
+[30-Apr-2021 11:41:26 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/profile-skills.php(23): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:52:29 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:53:51 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:54:46 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:55:23 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:56:07 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 11:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(25): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:08:29 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(7): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(30): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:14:49 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(9): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(31): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:15:21 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(9): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(31): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(9): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(31): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(9): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(26): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(9): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(26): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:20:43 UTC] PHP Fatal error:  Uncaught Error: Class 'DbCustom' not found in /home/m2xalp8xxvqd/public_html/includes/class.profess.php:13
+Stack trace:
+#0 /home/m2xalp8xxvqd/public_html/user-admin/includes/user-admin-nav.php(9): Professional->getProfName(0)
+#1 /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php(26): require_once('/home/m2xalp8xx...')
+#2 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/includes/class.profess.php on line 13
+[30-Apr-2021 12:21:34 UTC] PHP Warning:  require_once(../includes/user-admin-nav.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php on line 26
+[30-Apr-2021 12:21:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/user-admin-nav.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/user-admin/add-profile-skill.php on line 26
+[30-Apr-2021 14:50:47 UTC] PHP Notice:  Undefined variable: visitor_zip in /home/m2xalp8xxvqd/public_html/user-admin/view-question.php on line 71
+[30-Apr-2021 14:53:35 UTC] PHP Notice:  Undefined variable: visitor_zip in /home/m2xalp8xxvqd/public_html/user-admin/view-question.php on line 71
+[30-Apr-2021 14:53:50 UTC] PHP Notice:  Undefined variable: visitor_zip in /home/m2xalp8xxvqd/public_html/user-admin/view-question.php on line 71
+[01-May-2021 18:58:54 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 200
+[01-May-2021 19:00:37 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 200
+[01-May-2021 19:01:42 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 202
+[01-May-2021 20:15:47 America/Vancouver] PHP Notice:  Undefined variable: name in /home/m2xalp8xxvqd/public_html/user-admin/user-admin-landing.php on line 43
+[02-May-2021 05:04:34 UTC] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-credential.php on line 46
+[04-May-2021 04:14:16 America/Vancouver] PHP Notice:  Undefined index: pre_cropped_fn in /home/m2xalp8xxvqd/public_html/user-admin/add-profile-gal.php on line 60
+[04-May-2021 22:13:39 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-gal.php on line 15
+[04-May-2021 22:14:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-gal.php on line 17
+[04-May-2021 22:16:53 UTC] PHP Warning:  Unterminated comment starting line 4 in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-gal.php on line 4
+[04-May-2021 22:54:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-gal.php on line 16
+[04-May-2021 22:59:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-gal.php on line 16
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:56:21 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:57:01 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[04-May-2021 16:58:16 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 126
+[06-May-2021 12:24:21 America/Vancouver] PHP Notice:  Undefined variable: result in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 149
+[06-May-2021 12:24:21 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 149
+[06-May-2021 12:25:22 America/Vancouver] PHP Notice:  Undefined variable: result in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 149
+[06-May-2021 12:25:22 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 149
+[06-May-2021 12:25:26 America/Vancouver] PHP Notice:  Undefined variable: result in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 149
+[06-May-2021 12:25:26 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 149
+[06-May-2021 13:14:45 America/Vancouver] PHP Notice:  Undefined property: stdClass::$img_id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 155
+[06-May-2021 13:16:30 America/Vancouver] PHP Notice:  Undefined variable: img_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-profile-gal.php on line 23
+[10-May-2021 00:38:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 46
+[09-May-2021 18:57:35 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 188
+[09-May-2021 18:57:35 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 188
+[09-May-2021 18:57:35 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 188
+[09-May-2021 18:57:35 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 188
+[09-May-2021 18:58:46 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:58:46 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:58:46 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:58:46 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 257
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 264
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 257
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 264
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 257
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 264
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 257
+[09-May-2021 18:59:29 America/Vancouver] PHP Notice:  Undefined index: id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 264
+[09-May-2021 19:00:09 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 19:00:09 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 19:00:09 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[09-May-2021 19:00:09 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 189
+[10-May-2021 02:00:55 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 198
+[09-May-2021 19:24:38 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 190
+[09-May-2021 19:24:38 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 190
+[09-May-2021 19:24:38 America/Vancouver] PHP Notice:  Undefined property: stdClass::$id in /home/m2xalp8xxvqd/public_html/user-admin/profile-gallery.php on line 190
+[05-Jun-2021 23:54:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 16
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 164
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 165
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 166
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 167
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 168
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 169
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 170
+[06-Jun-2021 00:48:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 171
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 164
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 165
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 166
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 167
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 168
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 169
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 170
+[06-Jun-2021 00:48:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 171
+[06-Jun-2021 00:48:47 UTC] PHP Notice:  Undefined variable: db in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 19
+[06-Jun-2021 00:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 19
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 167
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 168
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 169
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 170
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 171
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 172
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 173
+[06-Jun-2021 00:49:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 174
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 167
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 168
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 169
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 170
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 171
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 172
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 173
+[06-Jun-2021 00:51:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/m2xalp8xxvqd/public_html/user-admin/articles-me.php on line 174
+[06-Jun-2021 01:13:48 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:18:37 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:19:31 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:19:46 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:20:37 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:22:49 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:23:27 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:23:39 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:24:29 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:25:34 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:25:45 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:26:44 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:26:47 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:30:26 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[06-Jun-2021 01:31:24 UTC] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 77
+[05-Jun-2021 18:48:30 America/Vancouver] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 117
+[05-Jun-2021 18:49:45 America/Vancouver] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 117
+[05-Jun-2021 18:50:00 America/Vancouver] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 117
+[06-Jun-2021 01:50:43 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 17
+[06-Jun-2021 01:52:01 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 21
+[05-Jun-2021 18:52:55 America/Vancouver] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 117
+[05-Jun-2021 18:53:39 America/Vancouver] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 117
+[05-Jun-2021 18:56:41 America/Vancouver] PHP Notice:  Undefined index: article_id in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 111
+[03-Sep-2021 13:38:47 America/Vancouver] PHP Notice:  Undefined variable: file_name in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 67
+[03-Sep-2021 13:38:47 America/Vancouver] PHP Notice:  Undefined variable: file_name in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 222
+[04-Sep-2021 04:30:31 America/Vancouver] PHP Notice:  Undefined variable: file_name in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 67
+[04-Sep-2021 04:30:31 America/Vancouver] PHP Notice:  Undefined variable: file_name in /home/m2xalp8xxvqd/public_html/user-admin/edit-article.php on line 222

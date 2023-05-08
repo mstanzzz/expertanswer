@@ -1,0 +1,18 @@
+
+
+
+
+// Destination file name
+var $file_dst_path;
+// Destination file name
+var $file_dst_name;
+
+// Destination file name body (i.e. without extension)
+var $file_dst_name_body;
+
+// Destination file extension
+var $file_dst_name_ext;
+
+//Destination file name, including path
+var $file_dst_pathname;
+

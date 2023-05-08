@@ -1,0 +1,452 @@
+[20-Dec-2020 12:21:47 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:21:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:21:56 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/index.php on line 2
+[20-Dec-2020 12:21:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/index.php on line 2
+[20-Dec-2020 12:23:26 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/index.php on line 2
+[20-Dec-2020 12:23:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/index.php on line 2
+[20-Dec-2020 12:23:55 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:23:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:24:03 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:24:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:24:03 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:24:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/full-article.php on line 3
+[20-Dec-2020 12:26:52 UTC] PHP Warning:  require_once(includes/config.php): failed to open stream: No such file or directory in /home/m2xalp8xxvqd/public_html/index.php on line 2
+[20-Dec-2020 12:26:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/m2xalp8xxvqd/public_html/index.php on line 2
+[02-Feb-2021 05:00:34 America/Vancouver] PHP Parse error:  syntax error, unexpected '$block' (T_VARIABLE) in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 183
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:43:53 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:44:15 America/Vancouver] PHP Notice:  Undefined index: has_videos in /home/m2xalp8xxvqd/public_html/includes/class.view.php on line 173
+[15-Apr-2021 00:45:47 America/Vancouver] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 163
+[15-Apr-2021 00:46:37 America/Vancouver] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 164
+[15-Apr-2021 00:46:39 America/Vancouver] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 164
+[15-Apr-2021 00:47:19 America/Vancouver] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 164
+[06-May-2021 15:06:24 America/Vancouver] PHP Notice:  Undefined index: posted_by_profile_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 46
+[06-May-2021 15:06:24 America/Vancouver] PHP Notice:  Undefined index: art_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 51
+[06-May-2021 15:06:24 America/Vancouver] PHP Notice:  Undefined index: posted_by_profile_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 46
+[06-May-2021 15:06:24 America/Vancouver] PHP Notice:  Undefined index: art_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 51
+[06-May-2021 15:06:24 America/Vancouver] PHP Notice:  Undefined index: posted_by_profile_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 46
+[06-May-2021 15:06:24 America/Vancouver] PHP Notice:  Undefined index: art_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 51
+[06-May-2021 15:11:18 America/Vancouver] PHP Notice:  Undefined index: art_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 52
+[06-May-2021 15:11:18 America/Vancouver] PHP Notice:  Undefined index: art_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 52
+[06-May-2021 15:11:18 America/Vancouver] PHP Notice:  Undefined index: art_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 52
+[08-May-2021 18:25:16 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/m2xalp8xxvqd/public_html/gallery.php on line 1
+[09-May-2021 16:06:12 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/gallery.php on line 128
+[09-May-2021 16:06:12 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/gallery.php on line 128
+[09-May-2021 16:06:12 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/gallery.php on line 128
+[09-May-2021 16:06:12 America/Vancouver] PHP Notice:  Array to string conversion in /home/m2xalp8xxvqd/public_html/gallery.php on line 128
+[09-May-2021 16:12:09 America/Vancouver] PHP Notice:  Undefined index: posted_by_profile_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 132
+[09-May-2021 16:12:09 America/Vancouver] PHP Notice:  Undefined index: posted_by_profile_id in /home/m2xalp8xxvqd/public_html/gallery.php on line 132
+[10-May-2021 01:49:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m2xalp8xxvqd/public_html/gallery.php on line 174
+[09-May-2021 18:53:01 America/Vancouver] PHP Notice:  Undefined index: description in /home/m2xalp8xxvqd/public_html/gallery.php on line 153
+[09-May-2021 18:54:06 America/Vancouver] PHP Notice:  Undefined index: description in /home/m2xalp8xxvqd/public_html/gallery.php on line 155
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[09-May-2021 20:14:15 America/Vancouver] PHP Notice:  Undefined variable: id in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 168
+[18-May-2021 12:36:59 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/explore.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/explore.php on line 14
+[18-May-2021 13:11:56 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 13:35:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/explore.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/explore.php on line 14
+[18-May-2021 14:39:23 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/ask.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/ask.php on line 19
+[18-May-2021 16:33:05 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 17:05:29 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 17:45:32 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 19:36:29 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/explore.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/explore.php on line 14
+[18-May-2021 20:05:13 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/explore.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/explore.php on line 14
+[18-May-2021 21:27:46 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/ask.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/ask.php on line 19
+[18-May-2021 22:32:15 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 23:26:50 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 23:26:56 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/profile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/profile.php on line 14
+[18-May-2021 23:27:03 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[18-May-2021 23:27:03 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 00:38:20 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:05:17 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:30:19 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:30:35 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:31:03 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:53:39 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:58:56 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:58:59 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 03:59:01 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 04:11:00 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 04:50:20 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/profile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/profile.php on line 14
+[19-May-2021 04:56:14 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 05:39:13 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[19-May-2021 05:54:35 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/ask.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/ask.php on line 19
+[19-May-2021 06:27:53 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'View' not found in /home/m2xalp8xxvqd/public_html/index.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/m2xalp8xxvqd/public_html/index.php on line 109
+[22-May-2021 04:53:06 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[22-May-2021 04:53:06 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[29-May-2021 22:05:29 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[29-May-2021 22:05:29 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[06-Jun-2021 00:18:36 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[06-Jun-2021 00:18:36 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[21-Jun-2021 23:58:45 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[21-Jun-2021 23:58:45 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[29-Aug-2021 15:02:57 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[29-Aug-2021 15:02:57 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[03-Sep-2021 01:26:28 America/Vancouver] PHP Notice:  Undefined variable: profile_id in /home/m2xalp8xxvqd/public_html/articles.php on line 54
+[03-Sep-2021 01:28:17 America/Vancouver] PHP Notice:  Undefined variable: profile_id in /home/m2xalp8xxvqd/public_html/articles.php on line 54
+[19-Oct-2021 16:44:54 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[19-Oct-2021 16:44:54 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[02-Dec-2021 15:46:33 America/Vancouver] PHP Notice:  Undefined variable: gal_array in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[02-Dec-2021 15:46:33 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/m2xalp8xxvqd/public_html/gallery.php on line 142
+[25-Dec-2021 23:25:08 America/Vancouver] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '208.109.41.235' (111) in /home/m2xalp8xxvqd/public_html/includes/class.dbcustom.php on line 21
+[22-Feb-2022 02:08:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/m2xalp8xxvqd/public_html/full-article.php on line 14
+[21-Feb-2022 18:28:24 America/Vancouver] PHP Notice:  Undefined variable: v in /home/m2xalp8xxvqd/public_html/full-article.php on line 141
+[21-Feb-2022 18:28:24 America/Vancouver] PHP Notice:  Undefined variable: v in /home/m2xalp8xxvqd/public_html/full-article.php on line 141
+[21-Feb-2022 18:30:39 America/Vancouver] PHP Notice:  Undefined variable: v in /home/m2xalp8xxvqd/public_html/full-article.php on line 141
+[22-Feb-2022 03:12:55 UTC] PHP Parse error:  syntax error, unexpected '$prof_img' (T_VARIABLE), expecting ',' or ';' in /home/m2xalp8xxvqd/public_html/full-article.php on line 158
+[22-Feb-2022 03:15:22 UTC] PHP Parse error:  syntax error, unexpected '$prof_img' (T_VARIABLE), expecting ',' or ';' in /home/m2xalp8xxvqd/public_html/full-article.php on line 157
+[21-Feb-2022 19:26:57 America/Vancouver] PHP Notice:  Undefined variable: posted_by_profile_id in /home/m2xalp8xxvqd/public_html/ask.php on line 40
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:32 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:33 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:33 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:33 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:33 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:33 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[04-Dec-2022 16:01:33 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Undefined variable: row in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131
+[05-Feb-2023 11:12:36 America/Vancouver] PHP Notice:  Trying to get property 'id' of non-object in /home/m2xalp8xxvqd/public_html/includes/class.search.php on line 131

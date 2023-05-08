@@ -1,0 +1,61 @@
+button {
+  cursor: pointer;
+}
+
+.btn-info-container-2 {
+  background-color: #3496b6;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  height: 24px;
+  margin: 4px;
+  width: 80px;
+  z-index: 99;
+  text-align: center;
+  font-size: 0.9em;
+  float: left;
+}
+
+.btn-info-container-2 a {
+  color: #fff !important;
+  font-size: 0.9em;
+}
+
+.hamburger-menu-button {
+  display: block;
+  margin: 20px;
+}
+
+nav {
+  background-color: #17a2b8;
+}
+
+.table tr td,
+.table tr th {
+  vertical-align: middle;
+}
+
+.card-img-cont img {
+  padding: 0.5rem;
+  width: 100%;
+}
+
+#navigation li > a:hover {
+  background-color: #007bff;
+}
+
+@media (max-width: 888px) {
+  .hamburger-menu-button {
+    display: block;
+  }
+
+  .left-sidebar-container {
+    display: none;
+  }
+
+  /*		
+	.btn-info-container {
+        display: none;
+    }
+*/
+}
